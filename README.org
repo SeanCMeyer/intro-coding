@@ -10,7 +10,7 @@
 #+BEGIN_HTML
 <div id="logo-container">
   <a href="http://hackreactor.com">
-    <img id="logo-image" src="assets/hr-logo.png">
+    <img id="logo-image" src="https://cdn.brandisty.com/img?id=568ed8bd7970821631000160&format=png&w=600&h=103">
   </a>
 </div>
 #+END_HTML
